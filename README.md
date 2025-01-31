@@ -1,4 +1,4 @@
-# Proposal: Mermaid to YAML/JSON – A Future-Ready Approach 🚀
+# Proposal: Mermaid as documentation first approach 🚀
 
 ## 🔍 The Challenge: Keeping Code and Documentation in Sync  
 
@@ -60,14 +60,6 @@ It simply transforms mermaid to yml.
 3️⃣ **Use YAML to generate** transforms to yml  🎯  
 
 🔗 The prototype builds on **Mermaid’s existing grammar**, ensuring a **non-intrusive** extension.
-
-## 🤝 Why This Matters for Mermaid.js  
-
-- **More Adoption** – Opens up Mermaid.js to **backend engineers, DevOps, and automation tools**.  
-- **Stronger Ecosystem** – Enables integration with **code generation frameworks**.  
-- **Minimal Overhead** – Uses **Mermaid’s existing class diagram syntax**, without introducing breaking changes.  
-
-> 🚀 **This is a win-win. Developers get more power, and Mermaid.js solidifies its position as the go-to tool for both visualization and automation.**  
 
 ## 🔧 Next Steps  
 
